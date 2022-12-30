@@ -190,7 +190,7 @@ jobotz.sendMessage(anu.id, { image:{ url: pp_user },
 "forwardingScore": 150,
 "isForwarded": true
 }
-}},caption: anunya}, {quoted: m, contextInfo:{}})
+}},caption: anunya}, {contextInfo:{}})
 
  } else if (anu.action == 'remove') {
  anunya2 =`
